@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-unit-testing-sinon-advance",
+  "version": "1.0.0",
+  "description": "When to use stub, spie, and mock Sinon with Mocha and Chai on NodeJs unit testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krismontielsa/nodejs-unit-testing-sinon-advance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krismontielsa/nodejs-unit-testing-sinon-advance/issues"
+  },
+  "homepage": "https://github.com/krismontielsa/nodejs-unit-testing-sinon-advance#readme",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.6.0",
+    "sinon": "^21.0.0"
+  }
+}
